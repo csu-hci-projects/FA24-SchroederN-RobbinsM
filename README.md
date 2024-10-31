@@ -2,13 +2,17 @@
 ## Contributors:
 Nolan Schroeder:\
 Worked on the health systems like player heealth, health packs, and hazard damage as well as the menu and his level.\
-Responsible for most of the GitHub troubleshooting
+Responsible for most of the GitHub troubleshooting\
 \
 Max Robbins:\
 Worked on the ammo and target systems like ammo pickups, no firing at zero ammo, and targets dissapearing after losing all their health to bullets.\
 Also contructed the fire level.
 
-## Associated Links
+## Associated Links:
+___Insert both video links for general playthrough and blueprint explanations___
+
+## Game Menu:
+__Insert information about game menu__
 
 ## The Fire Level
 The fire level consists of the player, a weapon pick up, 3 targets, 3 ammo pickups, __ health pickups, and 6 hazards the player can be damaged by.\
@@ -27,9 +31,16 @@ ___Insert Sections on health pickups and basics of how they work here___\
 \
 
 ## ___Insert other level name here___
-___Insert level details here
+___Insert level details here___
 
 ## Resources Used
 ChatGPT was a very useful resource as it alowed us to find answers to bug and collision issues we were having while making the project\
 \
 The videos used for the labs were also helpful in getting some basics down before moving on to more complex systems.
+
+## Meetings:
+- Sept 24th, 2024 - Met in-person to discuss general ideas about game before we began work on it.\
+\
+- Oct 24th, 2024 - Met online to get a some work done while conversing about GitHub organization.\
+\
+- Oct 30th, 2024 - Met online to do majority of heavy work lifting. Discussed divying up of work with what we had done.
