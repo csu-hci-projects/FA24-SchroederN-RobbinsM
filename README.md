@@ -1,5 +1,12 @@
 # FA24-SchroederN-RobbinsM
-Contributors: Nolan Schroeder and Max Robbins.
+## Contributors:
+Nolan Schroeder:\
+Worked on the health systems like player heealth, health packs, and hazard damage as well as the menu and his level.\
+Responsible for most of the GitHub troubleshooting
+\
+Max Robbins:\
+Worked on the ammo and target systems like ammo pickups, no firing at zero ammo, and targets dissapearing after losing all their health to bullets.\
+Also contructed the fire level.
 
 ## Associated Links
 
