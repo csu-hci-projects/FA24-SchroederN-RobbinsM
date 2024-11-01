@@ -1735,3 +1735,150 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.11.01-04.38.37:610][700]LogFileHelpers: Saving map 'Aimlabs' took 0.058
 [2024.11.01-04.38.37:641][700]AssetCheck: New page: Asset Save: Aimlabs
 [2024.11.01-04.38.37:641][700]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Aimlabs.Aimlabs
+[2024.11.01-04.41.08:823][269]LogEditorViewport: Clicking Background
+[2024.11.01-04.41.14:069][738]LogEditorViewport: Clicking Background
+[2024.11.01-04.42.07:266][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.11.01-04.42.08:522][431]LogSlate: Window 'Save Content' being destroyed
+[2024.11.01-04.42.08:593][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.11.01-04.42.08:606][431]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Aimlabs
+[2024.11.01-04.42.08:608][431]LogSavePackage: Moving '../../../../../../Users/fried/OneDrive/Documents/FA24-SchroederN-RobbinsM/HW1_Level/Saved/Aimlabs7A8892C0424194D1DA0362AAC3F938D8.tmp' to '../../../../../../Users/fried/OneDrive/Documents/FA24-SchroederN-RobbinsM/HW1_Level/Content/FirstPerson/Maps/Aimlabs.umap'
+[2024.11.01-04.42.08:624][431]LogFileHelpers: No new changes to save!
+[2024.11.01-04.42.08:624][431]LogFileHelpers: Saving map 'Aimlabs' took 0.058
+[2024.11.01-04.42.08:689][431]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.11.01-04.42.08:689][431]Cmd: MAP LOAD FILE="../../../../../../Users/fried/OneDrive/Documents/FA24-SchroederN-RobbinsM/HW1_Level/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.01-04.42.08:689][431]LightingResults: New page: Lighting Build
+[2024.11.01-04.42.08:689][431]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2024.11.01-04.42.08:691][431]LogWorld: UWorld::CleanupWorld for Aimlabs, bSessionEnded=true, bCleanupResources=true
+[2024.11.01-04.42.08:691][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.01-04.42.08:691][431]MapCheck: New page: Map Check
+[2024.11.01-04.42.08:691][431]LightingResults: New page: Lighting Build
+[2024.11.01-04.42.08:718][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.01-04.42.08:724][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.11.01-04.42.08:726][431]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.01-04.42.08:726][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.01-04.42.08:757][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.01-04.42.08:785][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.01-04.42.08:797][431]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.11.01-04.42.08:797][431]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.01-04.42.08:797][431]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.11.01-04.42.08:799][431]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.01-04.42.08:799][431]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2024.11.01-04.42.08:866][431]LogWorldPartition: Display: WorldPartition initialize took 67 ms
+[2024.11.01-04.42.08:988][431]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.01-04.42.09:019][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.01-04.42.09:033][431]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.01-04.42.09:033][431]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.37ms to complete.
+[2024.11.01-04.42.09:033][431]LogFileHelpers: Loading map 'FirstPersonMap' took 0.345
+[2024.11.01-04.42.09:067][431]AssetCheck: New page: Asset Save: Aimlabs
+[2024.11.01-04.42.09:067][431]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Aimlabs.Aimlabs
+[2024.11.01-04.42.14:478][922]Cmd: SELECT NONE
+[2024.11.01-04.50.24:333][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.11.01-04.50.24:338][979]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/Aimlabs.Aimlabs
+[2024.11.01-04.50.24:339][979]Cmd: MAP LOAD FILE="../../../../../../Users/fried/OneDrive/Documents/FA24-SchroederN-RobbinsM/HW1_Level/Content/FirstPerson/Maps/Aimlabs.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.01-04.50.24:339][979]LightingResults: New page: Lighting Build
+[2024.11.01-04.50.24:339][979]LoadErrors: New page: Loading map: Aimlabs.umap
+[2024.11.01-04.50.24:349][979]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.01-04.50.24:349][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.01-04.50.24:354][979]MapCheck: New page: Map Check
+[2024.11.01-04.50.24:354][979]LightingResults: New page: Lighting Build
+[2024.11.01-04.50.24:381][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.01-04.50.24:389][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.01-04.50.24:391][979]LogWorld: UWorld::CleanupWorld for Aimlabs, bSessionEnded=true, bCleanupResources=true
+[2024.11.01-04.50.24:392][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.01-04.50.24:423][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.01-04.50.24:451][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.01-04.50.24:483][979]LogAudio: Display: Audio Device (ID: 1) registered with world 'Aimlabs'.
+[2024.11.01-04.50.24:484][979]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.11.01-04.50.24:484][979]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.01-04.50.24:484][979]LogAIModule: Creating AISystem for world Aimlabs
+[2024.11.01-04.50.24:704][979]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.01-04.50.24:734][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.01-04.50.24:748][979]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.01-04.50.24:748][979]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.245ms to complete.
+[2024.11.01-04.50.24:748][979]LogFileHelpers: Loading map 'Aimlabs' took 0.410
+[2024.11.01-04.51.03:316][162]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 29983CDCE3E30289394D31DDA2A2C4101C813A75), compiling. 
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: ================================================
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Job execution time: average 1.94 s, max 1.94 s
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Job life time (pending + execution): average 2.04 s, max 2.04
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.04 s
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Average processing rate: 0.49 jobs/sec
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Effective parallelization: 0.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.11.01-04.51.05:425][292]LogShaderCompilers: Display: ================================================
+[2024.11.01-04.51.11:546][723]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.11.01-04.51.11:570][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.01-04.51.12:119][723]LogViewport: Scene viewport resized to 1051x2382, mode Windowed.
+[2024.11.01-04.51.14:657][853]LogSlate: Window 'SM_Ramp' being destroyed
+[2024.11.01-04.51.14:670][853]LogSlate: Window 'SM_Ramp' being destroyed
+[2024.11.01-04.51.14:716][853]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.11.01-04.51.14:717][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.01-04.51.14:873][853]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.11.01-04.51.14:873][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.01-04.51.16:525][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.11.01-04.51.16:525][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.11.01-04.51.16:527][980]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/FirstPerson/Maps/Aimlabs.Aimlabs:PersistentLevel.StaticMeshActor_1
+[2024.11.01-04.51.17:270][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.11.01-04.51.17:270][ 48]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp
+[2024.11.01-04.51.17:270][ 48]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_Ramp.SM_Ramp as actor: StaticMeshActor /Game/FirstPerson/Maps/Aimlabs.Aimlabs:PersistentLevel.StaticMeshActor_3
+[2024.11.01-04.51.32:025][493]Cmd: EDIT COPY
+[2024.11.01-04.51.33:371][645]Cmd: EDIT PASTE
+[2024.11.01-04.51.35:196][843]Cmd: EDIT COPY
+[2024.11.01-04.51.35:522][871]Cmd: EDIT PASTE
+[2024.11.01-04.51.39:237][254]Cmd: EDIT COPY
+[2024.11.01-04.51.39:532][288]Cmd: EDIT PASTE
+[2024.11.01-04.51.51:662][539]Cmd: EDIT PASTE
+[2024.11.01-04.52.05:906][ 67]Cmd: EDIT COPY
+[2024.11.01-04.52.06:199][102]Cmd: EDIT PASTE
+[2024.11.01-04.52.10:428][565]Cmd: EDIT COPY
+[2024.11.01-04.52.10:788][607]Cmd: EDIT PASTE
+[2024.11.01-04.52.20:800][653]Cmd: SELECT NONE
+[2024.11.01-04.52.30:546][694]Cmd: EDIT COPY
+[2024.11.01-04.52.30:830][727]Cmd: EDIT PASTE
+[2024.11.01-04.52.32:687][929]Cmd: EDIT COPY
+[2024.11.01-04.52.33:004][966]Cmd: EDIT PASTE
+[2024.11.01-04.52.34:402][106]Cmd: EDIT COPY
+[2024.11.01-04.52.34:696][135]Cmd: EDIT PASTE
+[2024.11.01-04.52.37:438][392]Cmd: EDIT COPY
+[2024.11.01-04.52.37:813][435]Cmd: EDIT PASTE
+[2024.11.01-04.52.40:161][689]Cmd: EDIT COPY
+[2024.11.01-04.52.40:523][729]Cmd: EDIT PASTE
+[2024.11.01-04.52.47:255][423]Cmd: EDIT COPY
+[2024.11.01-04.52.47:547][456]Cmd: EDIT PASTE
+[2024.11.01-04.52.49:079][620]Cmd: EDIT COPY
+[2024.11.01-04.52.49:366][651]Cmd: EDIT PASTE
+[2024.11.01-04.52.51:863][914]Cmd: EDIT COPY
+[2024.11.01-04.52.52:162][948]Cmd: EDIT PASTE
+[2024.11.01-04.52.56:817][428]Cmd: EDIT COPY
+[2024.11.01-04.52.57:093][452]Cmd: EDIT PASTE
+[2024.11.01-04.53.10:800][908]Cmd: EDIT COPY
+[2024.11.01-04.53.11:114][944]Cmd: EDIT PASTE
+[2024.11.01-04.53.12:949][139]Cmd: EDIT COPY
+[2024.11.01-04.53.13:231][169]Cmd: EDIT PASTE
+[2024.11.01-04.53.20:028][866]Cmd: EDIT COPY
+[2024.11.01-04.53.20:298][894]Cmd: EDIT PASTE
+[2024.11.01-04.53.22:392][110]Cmd: EDIT COPY
+[2024.11.01-04.53.22:676][139]Cmd: EDIT PASTE
+[2024.11.01-04.53.25:972][425]Cmd: EDIT COPY
+[2024.11.01-04.53.26:270][458]Cmd: EDIT PASTE
+[2024.11.01-04.53.31:392][977]Cmd: EDIT COPY
+[2024.11.01-04.53.31:679][  9]Cmd: EDIT PASTE
+[2024.11.01-04.55.34:878][878]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.11.01-04.55.34:879][878]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2024.11.01-04.55.56:090][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.11.01-04.55.56:116][845]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/Aimlabs
+[2024.11.01-04.55.56:117][845]LogSavePackage: Moving '../../../../../../Users/fried/OneDrive/Documents/FA24-SchroederN-RobbinsM/HW1_Level/Saved/AimlabsCDFA7E304DA162A8A8109BABFC62F752.tmp' to '../../../../../../Users/fried/OneDrive/Documents/FA24-SchroederN-RobbinsM/HW1_Level/Content/FirstPerson/Maps/Aimlabs.umap'
+[2024.11.01-04.55.56:140][845]LogFileHelpers: No new changes to save!
+[2024.11.01-04.55.56:161][845]AssetCheck: New page: Asset Save: Aimlabs
+[2024.11.01-04.55.56:161][845]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/Aimlabs.Aimlabs
