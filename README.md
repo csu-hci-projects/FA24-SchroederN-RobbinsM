@@ -1,46 +1,41 @@
 # FA24-SchroederN-RobbinsM
 ## Contributors:
 Nolan Schroeder:\
-Worked on the health systems like player heealth, health packs, and hazard damage as well as the menu and his level.\
-Responsible for most of the GitHub troubleshooting\
+Worked on the majority of the target systems like scoring and deletion. Also did the work for the moving of levels.\
 \
 Max Robbins:\
-Worked on the ammo and target systems like ammo pickups, no firing at zero ammo, and targets dissapearing after losing all their health to bullets.\
-Also contructed the fire level.
+Worked on the ammo and teleport surfacing systems.\
 
 ## Associated Links:
-___Insert both video links for general playthrough and blueprint explanations___
+https://youtu.be/RK9CNP2GE6o  \
+https://youtu.be/ScnO4oAI0sE  \
 
-## Game Menu:
-__Insert information about game menu__
+## Running Requirements:
+To run this application only 3 things are needed: \
+- A Functioning vr headset \
+- A working version of unreal engine to run the project \
+- A computer that can support the project \
 
-## The Fire Level
-The fire level consists of the player, a weapon pick up, 3 targets, 3 ammo pickups, __ health pickups, and 6 hazards the player can be damaged by.\
+## AmmoPistol:
+The AmmoPistol blueprint is what's responsible for basically all of the firing and ammo functionality.\
 \
-The weapon pickup is put in front of the player to get them moving, starting with zero ammo.\
+The weapon pickup is put in front of the player when the game starts, having 30 ammo to begin with.\
 \
-The pickups found near the targets give the player five bullets, the perfect amount to remove the targets.\
+The player is able to fire by using the triggers. When they run out of ammo they are able to reload by hitting the trigger again and waiting for the gun to reload after 1.5 seconds.\
 \
-Ammo is given to the player by checking for collision overlap with the player, and then increasing the ammo count of the player by a pickup amount.\
+Ammo is also displayed on top of the gun with a text display, and it ticks down with every shot.\
 \
 The targets themselves have a health of 100 that goes down by 20 whenever it detects a projectile hitting it, using the "event Hit" to detect the projectile. After that it makes a check to see if the targets health is less than or equal to 0, if so it will destroy the actor.\
 \
-___Insert Section on Hazards and how they handle health here___\
-\
-___Insert Sections on health pickups and basics of how they work here___\
-\
 
-## ___Insert other level name here___
-___Insert level details here___
-
-## Resources Used
-ChatGPT was a very useful resource as it alowed us to find answers to bug and collision issues we were having while making the project\
+## Teleport zones:
+The teleport zones were fairly simple. Both use a volume box that simply allows teleporting or not. \
 \
-The videos used for the labs were also helpful in getting some basics down before moving on to more complex systems.
+We switch between them by utilizing a sender from the targets that tell the level to change the volume when a certain amount of targets are hit/destroyed. \
 
 ## Meetings:
-- Sept 24th, 2024 - Met in-person to discuss general ideas about game before we began work on it.\
+- Dec 3rd, 2024 - Short communication online to get the project rolling\
 \
-- Oct 24th, 2024 - Met online to get a some work done while conversing about GitHub organization.\
+- Dec 5th, 2024 - Short communication online to clarify work.\
 \
-- Oct 30th, 2024 - Met online to do majority of heavy work lifting. Discussed divying up of work with what we had done.
+- Dec 6th, 2024 - Video call online to finish up recording videos and creation of README.
